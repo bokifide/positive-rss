@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Inspirational Quotes</title>
+  <description>A collection of inspirational quotes to motivate and inspire.</description>
+  <link>http://www.example.com</link>
+
+  <item>
+    <title>You have to believe in yourself when no one else does.</title>
+    <author>Serena Williams</author>
+  </item>
+
+  <item>
+    <title>When you have a dream, you’ve got to grab it and never let go.</title>
+    <author>Carol Burnett</author>
+  </item>
+
+  <!-- Add more <item> elements for each quote -->
+
+</channel>
+</rss>
